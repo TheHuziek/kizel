@@ -1,2 +1,3 @@
 # kizel
-juego echo en python con ursina
+programa de trabajo echo en rust
+
