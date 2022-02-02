@@ -1,3 +1,4 @@
-# kizel
-programa de trabajo echo en rust
+#kizel
+conjunto de programas sin algun fin en especifico
+
 
